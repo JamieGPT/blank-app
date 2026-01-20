@@ -2,3 +2,5 @@ streamlit
 st-supabase-connection
 supabase
 requests
+huggingface_hub
+Pillow
