@@ -1,2 +1,3 @@
-st-supabase-connection
+streamlit
 supabase
+st-supabase-connection
